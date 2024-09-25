@@ -4,6 +4,5 @@ Python script to determine any Instrumentals, Acapellas, or TV Tracks in a given
 ## Installation
 - ```pip install -r requirements.txt```
 - Setup an application with the Spotify developer portal, then paste the client secret and ID in this code block in main.py:
-```sp = spotipy.Spotify(auth_manager=SpotifyClientCredentials(client_id="YOUR_CLIENT_ID",```
-```                                                            client_secret="YOUR_CLIENT_SECRET"))```
+```sp = spotipy.Spotify(auth_manager=SpotifyClientCredentials(client_id="YOUR_CLIENT_ID", client_secret="YOUR_CLIENT_SECRET"))```
 - Follow further instructions in the console
