@@ -1,0 +1,5 @@
+music_tag==0.4.3
+Requests==2.32.3
+spotipy==2.24.0
+survey==5.4.0
+thefuzz==0.22.1
